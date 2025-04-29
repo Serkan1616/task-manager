@@ -1,12 +1,33 @@
-# React + Vite
+# 🗂 Task Manager - Drag and Drop Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **Task Management Board** project built with **React** and **@dnd-kit** library, styled with **TailwindCSS**.
 
-Currently, two official plugins are available:
+##  Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** (Vite)
+- **TailwindCSS** for styling
+- **@dnd-kit/core** for drag and drop handling
+- **@dnd-kit/sortable** for sortable lists
+- **@dnd-kit/utilities** for smooth drag animations
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+![gif](https://github.com/user-attachments/assets/8f276b6b-a2d3-45e2-860d-41165b28b671)
+
+![image](https://github.com/user-attachments/assets/976d5b59-fe18-47a2-ba2c-77a0355a13a3)
+
+![image](https://github.com/user-attachments/assets/1b699080-0e62-4266-90fa-9de3942da45a)
+
+---
+
+##  Features
+
+- 🖱️ **Drag & Drop** tasks between columns
+- ➕ **Add new task** via Modal
+- 🔎 Smooth drag preview using `DragOverlay`
+- 🎨 Nice and responsive layout
+
+
+---
+
