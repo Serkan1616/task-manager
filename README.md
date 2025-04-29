@@ -23,10 +23,10 @@ This is a simple **Task Management Board** project built with **React** and **@d
 
 ##  Features
 
-- 🖱️ **Drag & Drop** tasks between columns
-- ➕ **Add new task** via Modal
-- 🔎 Smooth drag preview using `DragOverlay`
-- 🎨 Nice and responsive layout
+-  **Drag & Drop** tasks between columns
+-  **Add new task** via Modal
+-  Smooth drag preview using `DragOverlay`
+-  Nice and responsive layout
 
 
 ---
